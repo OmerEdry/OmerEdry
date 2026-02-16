@@ -17,11 +17,11 @@ I am a final-year CS student. I am looking for **Junior / Entry-level** roles in
 
 ---
 
-### ⚡ Beyond the Code (Ask me about these!)
+### ⚡ Beyond the Code
 * 🎮 **Gaming:** I've been gaming for over 20 years. I play all kinds of games, mostly MMORPGs.
 * 🎸 **Music:** I'm into any music that sounds good, but I usually lean toward Rock. I also play the drums.
 * 🏃‍♂️ **Sports & Fitness:** I love watching sports and staying active with gym sessions and running.
-* 🐈 **Happily married and Cat dad for 2.**
+* 💍**Happily married & 🐈 Cat dad for 2.**
 
 ---
 
