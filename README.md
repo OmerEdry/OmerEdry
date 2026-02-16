@@ -1,7 +1,7 @@
 # Hi, I'm Omer Edry 👋
 
 ### 🎓 Computer Science Senior (B.Sc) | 27 Years Old
-I am a final-year CS student. I am looking for **Junior / Entry-level** roles in **Full-Stack Development**, **Software Engineering**, or **DevOps Engineering**.
+I am a final-year CS student. I am looking for **Entry-level / Junior** roles in **Full-Stack Development**, **Software Engineering**, or **DevOps Engineering**.
 
 ---
 
@@ -27,4 +27,4 @@ I am a final-year CS student. I am looking for **Junior / Entry-level** roles in
 
 ### 📫 Connect with me
 * 🟦 **LinkedIn:** [https://www.linkedin.com/in/omeredry/](https://www.linkedin.com/in/omeredry/)
-* ✉️ **Email:** [Edry2Omer@example.com]
+* ✉️ **Email:** [Edry2Omer@gmail.com]
