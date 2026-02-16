@@ -1,8 +1,8 @@
 # Hi, I'm Omer Edry 👋
 
 ### 🎓 Computer Science Senior (B.Sc) | 27 Years Old
-I am a final-year CS student. I am looking for **Entry-level / Junior** roles in **Full-Stack Development**, **Software Engineering**, or **DevOps Engineering**.
-
+inal-year Computer Science student seeking **Entry-level / Junior** roles in **Full-Stack**, **Software Engineering**, or **DevOps**.
+*📍 Based in Ramat Gan,Central Israel. Available for Full/Part-time, Remote, or On-site roles.*
 ---
 
 ### 🛠️ Tech Stack
