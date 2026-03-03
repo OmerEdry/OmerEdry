@@ -13,10 +13,12 @@
 * ⚙️ **Systems & DevOps:** Linux (Ubuntu), Git, Algorithms & OS
 
 ---
+### 📂 Projects
 
-### 📂 Projects (Work in Progress)
-* **[Job Application Tracker](https://github.com/OmerEdry/job-application-tracker):** A full-stack tool built with **React & Vite** to manage the job hunt. (Collaborative project with @sharon011).
-
+* **[Job Application Tracker](https://github.com/OmerEdry/job-application-tracker)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange)
+    * 🚀 **Full-stack tool:** React, Vite & MUI
+    * 🤝 **Collaborative development:** @sharon011
+    * ⚙️ **Workflow:** Git Flow, Code Reviews & Commit Conventions
 ---
 
 ### 📫 Connect with me
