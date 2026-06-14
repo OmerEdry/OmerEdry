@@ -15,7 +15,7 @@
 ---
 ### 📂 Projects
 
-* 🚀 **Full-Stack Job Application Tracker:** Centralized Kanban interface replacing fragmented spreadsheets for developers.
+* 🚀 **[Full-Stack Job Application Tracker:](https://github.com/OmerEdry/Job-Application-Tracker.git)** Centralized Kanban interface replacing fragmented spreadsheets for developers.
     * 🛠️ **Tech Stack:** React 18 (Vite, MUI 6, Context API) & Node.js (Express), Python (FastAPI).
     * 🗄️ **Database & Architecture:** Relational JSON schema storage mapping decoupled entities (Applications, Companies, Tags)[🔗ERD](https://dbdiagram.io/d/Copy-of-DB-Design-Final-6a2e80a19340ecc065925300).
     * 🤝 **Collaborative Development:** Built in partnership with @sharon011.
