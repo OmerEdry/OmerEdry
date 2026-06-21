@@ -1,32 +1,48 @@
 # Hi, I'm Omer Edry 👋
 
-### 🎓 Computer Science Senior (B.Sc) | 28 Years Old
+### 🎓 Software Developer & AI Engineer | Last-Year CS Student
 
-* *Final-year CS student seeking **Entry-level / Junior** roles in **Full-Stack**, **Software Engineering** or **Prompt Enginerr**.*
-* 📍 Based in Ramat Gan, Central Israel
-* 🌍 Available for Full/Part-time | Remote or On-site
+* *Computer Science student with practical experience building scalable software tools, managing databases, and integrating AI models.*
+* *Actively exploring full-time opportunities in Software Development and AI Engineering.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omeredry/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Edry2Omer@gmail.com)
 ---
 
-### 🛠️ Tech Stack
-* 💻 **Backend:** Java, Python (FastAPI), Node.js (Express), C, SQL
-* 🌐 **Frontend:** React.js, Vite, HTML, CSS
-* ⚙️ **Systems & DevOps:** Linux (Ubuntu), Git, Algorithms & OS
+### 🛠️ Languages and Tools
+*A high-performance stack focused on clean code, scalable software, and AI-driven infrastructure.*
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" title="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" title="AWS"/>
+</p>
 
 ---
-### 📂 Projects
 
-* 🚀 **[Full-Stack Job Application Tracker:](https://github.com/OmerEdry/Job-Application-Tracker.git)** Centralized Kanban interface replacing fragmented spreadsheets for developers.
-    * 🛠️ **Tech Stack:** React 18 (Vite, MUI 6, Context API) & Node.js (Express), Python (FastAPI).
-    * 🗄️ **Database & Architecture:** Relational JSON schema storage mapping decoupled entities[🔗ERD](https://dbdiagram.io/d/Copy-of-DB-Design-Final-6a2e80a19340ecc065925300).
-    * 🤝 **Collaborative Development:** Built in partnership with @sharon011.
-    * ⚙️ **Workflow & QA:** Client-side data adapters, Git Flow, strict Code Reviews, and semantic commit conventions.
-    
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange)   
-* 🤖 **AI Agent Project**: Designing and building a smart automation tool integrated with Large Language Models (LLMs).
-    * 🛠️ **Focus Areas:** Prompt Engineering, API integration (OpenAI/Anthropic), and AI workflow orchestration.
-    * 💻 **Tech:** Python / Node.js.
----
+### 📂 Featured Projects
 
-### 📫 Connect with me
-* 🟦 **LinkedIn:** [https://www.linkedin.com/in/omeredry/](https://www.linkedin.com/in/omeredry/)
-* ✉️ **Email:** [Edry2Omer@gmail.com]
+#### 🤖 [ChatOps Incident Agent](https://github.com/OmerEdry/Chatops-incident-agent)
+> **Autonomous AI Orchestrator for Real-Time Infrastructure Monitoring & Root-Cause Analysis.**
+> 
+> * **Functionality:** A production-ready backend system developed to automate log triage. The agent consumes alerts, executes deep technical analysis, and dispatches automated notifications via Slack webhooks.
+> * **AI Architecture:** Utilizes a **Dual-LLM architecture** integrating the Gemini and Claude APIs to leverage high-speed triage alongside advanced reasoning.
+> * **Infrastructure & Backend:** Built with **Python** and **FastAPI**, integrating an async **PostgreSQL** database. Orchestrated on **AWS (EKS)** using **Docker** for stable deployment.
+
+#### 🚀 [NextStep (Job Application Management System)](https://github.com/OmerEdry/Job-Application-Tracker.git)
+> **End-to-End Full-Stack Platform to Streamline Job Hunt Workflows.**
+> 
+> * **Functionality:** A comprehensive Kanban-style dashboard tailored for managing the full lifecycle of a job search. 
+> * **Core Tech:** Built with **React 18**, **Vite**, and **Material-UI** for a highly responsive frontend, driven by a **Node.js** and **Express** backend. Data storage is efficiently managed using a lightweight, local vanilla JSON file architecture.
+> * **Engineering & Collaboration:** Co-developed in an agile environment. Implemented a rigorous **Git** workflow consisting of over 140+ commits and 25+ structured Pull Requests to ensure production-grade code quality and seamless team collaboration.
