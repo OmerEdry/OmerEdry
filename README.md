@@ -1,12 +1,11 @@
 # Hi, I'm Omer Edry 👋
 
-### 🎓 Software Developer & AI Engineer | Last-Year CS Student
+### 🎓 Software Developer & AI Engineer
 
 * *Computer Science student with practical experience building scalable software tools, managing databases, and integrating AI models.*
 * *Actively exploring full-time opportunities in Software Development and AI Engineering.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omeredry/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Edry2Omer@gmail.com)
+
 ---
 
 ### 🛠️ Languages and Tools
@@ -46,3 +45,9 @@
 > * **Functionality:** A comprehensive Kanban-style dashboard tailored for managing the full lifecycle of a job search. 
 > * **Core Tech:** Built with **React 18**, **Vite**, and **Material-UI** for a highly responsive frontend, driven by a **Node.js** and **Express** backend. Data storage is efficiently managed using a lightweight, local vanilla JSON file architecture.
 > * **Engineering & Collaboration:** Co-developed in an agile environment. Implemented a rigorous **Git** workflow consisting of over 140+ commits and 25+ structured Pull Requests to ensure production-grade code quality and seamless team collaboration.
+
+---
+
+### 📫 Connect with me 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omeredry/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/342371088988241922)
